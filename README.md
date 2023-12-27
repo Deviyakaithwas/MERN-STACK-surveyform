@@ -1,10 +1,14 @@
 # MERN-STACK-surveyform
-Title: Objective: Create a survey form submission application using the MERN stack that allows users to submit required information. Additionally, deploy the application online to a server.
+
 *********************************************************************************************************************************************************************************************
 Objective: Create a survey form submission application using the MERN stack that allows users to submit required information. Additionally, deploy the application online to a server.
 **************************************************************************************************************************************************************************************
-Requriments:
+
+ deploy limk: https://mern-stack-surveyform.vercel.app/
+
 ************
+Requriments:
+
 1. Backend (Node.js, Express, MongoDB):
 
 - Set up a Node.js and Express server.
